@@ -46,14 +46,14 @@ html{
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 5px;
 }
 
 .nav-links li a {
     text-decoration: none;
     color: #ffffff;
     font-size: 22px; 
-    padding-right: 5em; 
+    padding-right: 3em; 
     transition: color 0.3s;
 }
 
